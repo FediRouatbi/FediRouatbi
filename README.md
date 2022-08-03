@@ -3,7 +3,7 @@
 </br></br></br>
 
 - 🔭 I’m currently working on React projects
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Redux, Typescript
 - 💬 Ask me about ReactJS,javascript
 - 📫 How to reach me: fedirouatbi@gmail.com
 
